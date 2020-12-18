@@ -1,11 +1,11 @@
 {
-  "latestVersion": "1.1.8",
-  "latestVersionCode": "10",
-  "url": "https://github.com/thatapps/Video-Saver/releases/download/yousave1.1.8/yousave.apk",
+  "latestVersion": "1.2.1",
+  "latestVersionCode": "12",
+  "url": "https://github.com/thatapps/Video-Saver/releases/download/yousave1.2.1/yousave.apk",
   "releaseNotes": [
-    "- Version 1.1.8 Important Update",
+    "- Version 1.2.1 Important Update",
     "- Video Loading Bug Fixed",
-    "- Loading Speed Improved",
-    "- Bug fixes"
+    "- Comments Loading Issue Fixed",
+    "- Small Bugs Fixed"
   ]
 }
