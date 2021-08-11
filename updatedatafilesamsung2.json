@@ -1,11 +1,12 @@
 {
- "latestVersion": "1.2.9S",
-  "latestVersionCode": "20",
-  "url": "https://github.com/thatapps/Video-Saver/releases/download/yousave1.2.9sam/yousavesam.apk",
+ "latestVersion": "1.2.10S",
+  "latestVersionCode": "21",
+  "url": "https://github.com/thatapps/Video-Saver/releases/download/yousave1.2.10sam/yousavesam.apk",
   "releaseNotes": [
-    "- Version 1.2.9S Big Update",
+    "- Version 1.2.10S Big Update",
     "- Video And Audio Download Speed Improved",
-    "- Option Added For 2K And 4K Videos Enable In Settings",
+    "- Video Loading Issue Fixed",
+    "- Comments Issue Fixed",
     "- Major Bugs Fixed",
     "- For Any Bug Reports Contact Us",
     "- Share This App And Support Us",
