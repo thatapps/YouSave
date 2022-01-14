@@ -1,10 +1,9 @@
 {
- "latestVersion": "1.2.12S",
-  "latestVersionCode": "23",
-  "url": "https://github.com/thatapps/Video-Saver/releases/download/yousave1.2.12sam/yousavesam.apk",
+ "latestVersion": "1.2.11S",
+  "latestVersionCode": "22",
+  "url": "https://github.com/thatapps/Video-Saver/releases/download/yousave1.2.11sam/yousavesam.apk",
   "releaseNotes": [
-    "- Version 1.2.12S Big Update",
-    "- Homescreen Issue Fixed",
+    "- Version 1.2.11S Big Update",
     "- Video And Audio Download Speed Improved",
     "- Video Loading Issue Fixed",
     "- Comments Issue Fixed",
